@@ -1,0 +1,1 @@
+Simple realisation of long-pooling, SSE, WebSocket on React/Node.js
